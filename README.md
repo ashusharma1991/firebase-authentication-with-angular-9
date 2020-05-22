@@ -1,3 +1,9 @@
+# Login And Regitration with Firebase
+
+# Youtube Firebase playlist Link
+
+https://www.youtube.com/watch?v=Stj9I9_Q_6w&list=PLbCi1k95dW0FmxIpQDLtlRalvXDsZIXfT
+
 # FirebaseAuth
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.0.
