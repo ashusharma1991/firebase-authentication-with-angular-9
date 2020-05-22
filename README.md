@@ -1,4 +1,4 @@
-# Login And Regitration with Firebase
+# Login And Registration with Firebase
 
 # Youtube Firebase playlist Link
 
